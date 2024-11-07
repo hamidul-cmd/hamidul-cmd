@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamidul-cmd
+- 👋 Hi, I’m Hamidul Islam Maruf
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate with you for a project
